@@ -5,7 +5,7 @@ public class ArrayList {
     private static int[] baseData=new int[10];
 
     public static void main(String[] args) {
-        System.out.println("enter 10 int");
+        System.out.println("enter 20 int");
         getInput();
         PrintArray(baseData);
         resizeArray();

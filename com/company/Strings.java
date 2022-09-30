@@ -28,6 +28,11 @@ public class Strings {
         int myInt=50;
         lastString=lastString+myInt;
         System.out.println("laststring ="+lastString);
+        
+        String lastString1= "10";
+        int myInt=50;
+        lastString=lastString+myInt;
+        System.out.println("laststring ="+lastString);
 
         double DoubleNumber=120.447;
         lastString=lastString+ DoubleNumber;

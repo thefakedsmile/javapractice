@@ -69,6 +69,10 @@ class Forgetable extends Movie{
     }
     //no plot method
 }
+class StarWars extends Movie{
+    public StarWars() {
+        super("Starwars");
+    }
 
 public class Main {
     public static void main(String[] args) {

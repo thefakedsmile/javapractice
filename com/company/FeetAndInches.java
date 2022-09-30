@@ -4,6 +4,8 @@ public class FeetAndInches {
     public static void main(String[] args) {
         feetAndInchesToCentimeters(6,0);
         feetAndInchesToCentimeters(52);
+        feetAndInchesToCentimeters(5,8);
+        feetAndInchesToCentimeters(55);
 
     }
 

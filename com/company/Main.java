@@ -7,5 +7,8 @@ public class Main {
         System.out.println("hello");
         int myint=15+6;
         System.out.println(myint);
+	     System.out.println("Printed");
+	   
+	    
     }
 }

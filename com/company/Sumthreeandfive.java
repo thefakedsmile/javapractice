@@ -4,6 +4,7 @@ public class Sumthreeandfive {
     public static void main(String[] args) {
 
         System.out.println(sumthreeandfive());
+        System.out.println(sumthreeandfive());
 
     }
 

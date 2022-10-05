@@ -8,6 +8,8 @@ public class KeywordsAndExpressions {
 //inside braces are expressins
         if(highscore==50 ){
             System.out.println("this is an expression");
+            System.out.println("this is an expression");
+            
         }
 
 

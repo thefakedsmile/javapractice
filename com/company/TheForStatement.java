@@ -7,6 +7,7 @@ public class TheForStatement {
 
         for(int i=2;i<9;i++){
             System.out.println("10000 at "+i +" % intrest rate=" + String.format("%.2f",calculateIntrest(10000,i)));
+            System.out.println("10000 at "+i +" % intrest rate=" + String.format("%.2f",calculateIntrest(10000,i)));
         }
 
         int count=0;

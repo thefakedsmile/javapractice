@@ -4,6 +4,8 @@ public class FeetAndInches {
     public static void main(String[] args) {
         feetAndInchesToCentimeters(6,0);
         feetAndInchesToCentimeters(52);
+        feetAndInchesToCentimeters(5,8);
+        feetAndInchesToCentimeters(55);
 
     }
 
@@ -25,6 +27,7 @@ public class FeetAndInches {
         double feet=(int)inches/12;
         double remainingInches=(int) inches % 12;
         System.out.println(inches+" inches is equal to "+feet+" feet and "+remainingInches +" inches" );
+         System.out.println(inches+" inches is equal to "+feet+" feet and "+remainingInches +" inches" );
         return feetAndInchesToCentimeters(feet,remainingInches);
     }
 

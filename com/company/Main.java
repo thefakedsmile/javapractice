@@ -8,6 +8,8 @@ public class Main {
         int myint=15+6;
         System.out.println(myint);
 	     System.out.println("Printed");
+	    System.out.print("Printed");
+	    
 	   
 	    
     }

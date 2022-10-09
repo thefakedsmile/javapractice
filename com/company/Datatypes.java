@@ -8,6 +8,7 @@ public class Datatypes {
         int myminValue=-2147483648;
         int mymaxValue=2147483647;
         int myTotal=(myminValue/2);
+        int Displayvalue=2;
         System.out.println("myTotal" +myTotal);
 
 

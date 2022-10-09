@@ -13,7 +13,9 @@ public class Strings {
         //char
         //boolean
 
-     String myString="This is a string";
+         String myString="This is a string";
+        String myString1="This is also a string";
+        
         System.out.println("myString is equal to "+ myString);
         myString=myString +"  and this is more";
         System.out.println("myString is equal to "+ myString);

@@ -9,6 +9,7 @@ public class Main {
         pagesPrinted=printer.printPages(2);
         System.out.println("pages printed was "+pagesPrinted+" my total print count for printer= "+printer.getPagesPrinted());
         System.out.println("pages printed was "+pagesPrinted+" my total print count for printer= "+printer.getPagesPrinted());
+         System.out.println("pages printed was "+pagesPrinted+" my total print count for printer= "+printer.getPagesPrinted());
 
     }
 }

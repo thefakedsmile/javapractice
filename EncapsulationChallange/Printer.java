@@ -4,6 +4,7 @@ public class Printer {
     private int tonnerLevel;
     private int pagesPrinted;
     private boolean duplex;
+    private int dog;
 
     public Printer(int tonnerLevel, boolean duplex) {
         if(tonnerLevel > -1  && tonnerLevel<=1000){

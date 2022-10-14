@@ -25,6 +25,9 @@ class Jaws extends Movie{
     public String plot(){
         return "a shark eats lots f people";
     }
+     public String plot(){
+        return "a shark eats lots f people";
+    }
 
 }
 

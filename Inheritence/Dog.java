@@ -6,6 +6,7 @@ public class Dog extends Animal{
     private int tail;
     private int teeth;
     private String Coat;
+    private String nose;
 
 //    public Dog(int name, int brain, int body, int size, int weight) {
 //        super(name, brain, body, size, weight);

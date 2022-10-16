@@ -22,6 +22,8 @@ public class Switch {
                 break;
             case 3: case 4: case 5:
                 System.out.println("was a 3 or 4 or 5");
+                System.out.println("was a 3 or 4 or 5");
+                
                 System.out.println("actually it was a "+switchValue);
                 break;
             default:

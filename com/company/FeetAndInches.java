@@ -6,6 +6,7 @@ public class FeetAndInches {
         feetAndInchesToCentimeters(52);
         feetAndInchesToCentimeters(5,8);
         feetAndInchesToCentimeters(55);
+         feetAndInchesToCentimeters(55);
 
     }
 

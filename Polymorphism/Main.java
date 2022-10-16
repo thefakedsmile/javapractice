@@ -9,6 +9,7 @@ class Movie{
 
     public String plot(){
         return "no plot here";
+        return "no plot here";
     }
 
     public String getName() {

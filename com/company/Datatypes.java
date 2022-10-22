@@ -10,6 +10,7 @@ public class Datatypes {
         int myTotal=(myminValue/2);
         int Displayvalue=2;
         System.out.println("myTotal" +myTotal);
+         System.out.println("myTotal" +myTotal);
 
 
         //8

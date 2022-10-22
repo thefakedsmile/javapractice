@@ -6,6 +6,7 @@ public class DigitSumChallange {
         System.out.println(sumDigits(2556));
         System.out.println(sumDigits(156));
         System.out.println(sumDigits(-1256));
+         System.out.println(sumDigits(-1256));
     }
 
     private static int sumDigits(int number){

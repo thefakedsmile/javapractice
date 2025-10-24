@@ -5,7 +5,7 @@ public class oopsClass {
         Car porshe=new Car();
         Car holden=new Car();
         System.out.println(porshe.getModel());
-        porshe.setModel("porshev1");
+        porshe.setModel("porshev4");
         porshe.setColor("red");
         porshe.setDoors(4);
         porshe.setEngine("race");
@@ -16,3 +16,4 @@ public class oopsClass {
         System.out.println("model is "+porshe.getModel()+porshe.getColor()+porshe.getEngine());
     }
 }
+

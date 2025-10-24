@@ -1,4 +1,4 @@
-# Javapractice
+# Javapractice #practice
 
 HOW TO CONTRIBUTE IN HACKTOBERFEST
 
@@ -31,5 +31,6 @@ Getting started
 6.Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 
 Wait for your PR review and merge approval!
+
 
 Star this repository if you had fun!

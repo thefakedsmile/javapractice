@@ -16,7 +16,7 @@ class LinearSearchExample2
     for (c = 0; c < n; c++)  
       array[c] = sc.nextInt();  
    
-    System.out.println("Enter value to find");  
+    System.out.println("Enter value to find and search");  
     search = sc.nextInt();  
    
     for (c = 0; c < n; c++)  
@@ -31,3 +31,4 @@ class LinearSearchExample2
       System.out.println(search + " isn't present in array.");  
   }  
 }  
+

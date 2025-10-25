@@ -27,7 +27,8 @@ printArray(myintArray);
 
     public static void printArray(int [] array){
         for(int i=0;i<array.length;i++){
-            System.out.println("element "+i+" value is"+array[i]);
+            System.out.println("element "+i+" value of array is"+array[i]);
         }
     }
 }
+
